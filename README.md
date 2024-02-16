@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lixin Zhu and teaching in Shandong University, Weihai.
-- 👀 My research topics covers population dynamics, fisheries biology, fisheries stock assessment, and hydrodynamics of artificial reefs.
+- 👀 My research topics covers population dynamics, fisheries biology, fisheries stock assessment, hydrodynamics of artificial reefs, and design of artificial reefs.
 - 🌱 I’m interested in computer simulation and Bayesian analysis in fisheries science.
 - 💞️ 
 - 📫 
